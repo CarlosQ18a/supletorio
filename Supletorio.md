@@ -48,6 +48,7 @@ Esta práctica aplica los principios de arquitectura de microservicios a una apl
 
 ### Paso 1:  Preparar el entorno local
 **Diagrama de Arquitectura**
+
 <img width="674" height="459" alt="image" src="https://github.com/user-attachments/assets/79ce0e6f-78eb-43ed-8b70-f081bfc17505" />
 
 
